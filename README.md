@@ -1,7 +1,9 @@
 # slimshelper
 Jalan pintas memulai dan mengakhiri SLIMS Psenayan "Senayan Library Management System" [https://slims.web.id/web/]
+---
 
-Ini adalah BAT file untuk membuat jalan pintas 1x klik jalankan "Portable SLiMS" di Windows (Server Lokal):
+
+BAT file ini untuk membuat jalan pintas 1x klik jalankan "Portable SLiMS" di Windows (Server Lokal):
 
 KONDISI:
 1. Ketika "Wifi mati" dan "LAN hidup", maka "IPv4 LAN" yang digunakan
