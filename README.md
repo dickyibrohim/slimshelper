@@ -23,8 +23,11 @@ Jika ingin menghidupkan, cukup double klik "autostartSLIM.bat",
 
 
 Anda tidak perlu lagi mengetik manual ipconfig di CMD dan tidak perlu lagi membuka manual browser dan mengetikan IP local, semua dilakukan sendiri oleh "FILE BAT" ini
-* Catatan: Jangan tutup CMD yang ada agar tetap menyala
+* Catatan: 
+* Jangan tutup CMD yang ada agar tetap menyala.
+* Jika anda mengubah Port default, maka pada bagian start http://%_IPaddr% tambahkan :XXXX (port anda), misal: start http://%_IPaddr%:8089
 ---
+
 Instruksi menutup:
 1. Cukup dowbleklik "StopSemuaPujo.bat" 
 2. Selesai
