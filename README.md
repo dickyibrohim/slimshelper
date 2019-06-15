@@ -11,7 +11,6 @@ KONDISI:
 3. Ketika "LAN hidup" dan "WIFI hidup", maka digunakan "IPv4 Wifi"
 4. Ketika "LAN mati" dan "WIFI mati", maka blank
 
-Mohon tidak merubah pengaturan ini karena ini gratis. 
 BY DICKY IBROHIM dan PUJO NUGROHO
 Untuk FREE SLIMS Community
 
