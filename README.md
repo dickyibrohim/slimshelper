@@ -1,5 +1,5 @@
 # slimshelper
-Jalan pintas memulai dan mengakhiri SLIMS Psenayan "<a href="https://slims.web.id/web/">Senayan Library Management System</a>"
+Jalan pintas memulai dan mengakhiri SLIMS Psenayan "<a href="https://slims.web.id/web/" rel="dofollow">Senayan Library Management System</a>"
 ---
 
 
