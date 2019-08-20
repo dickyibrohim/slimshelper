@@ -10,7 +10,6 @@ echo 1. Misal Wifi mati dan LAN hidup, maka IPv4 LAN yang digunakan
 echo 2. Misal LAN mati dan WIFI hidup, maka IPv4 WIFI yang digunakan
 echo 3. Misal LAN hidup dan WIFI hidup, maka digunakan IPv4 Wifi
 echo 4. Misal LAN mati dan WIFI mati, maka blank
-echo Mohon tidak merubah pengaturan ini karena ini gratis. 
 echo Thanks for DICKY IBROHIM dan PUJO NUGROHO
 echo for FREE SLIMS Community
 pause
