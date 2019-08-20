@@ -4,7 +4,7 @@ echo Ip Server Local: %_IPaddr%
 start cmd /k Call apache_start.bat 4444
 start cmd /k Call mariadb_start.bat 5555
 IF "%_IPaddr%"=="" (SET _IPaddr="localhost")
-start http://%_IPaddr%:<portmu jika ada>
+start http://%_IPaddr%:portmu jika ada
 echo Untuk membantu lebih cepat menjalankan SLIM server Lokal di Windows
 echo IP yang digunakan adalah yang aktif. 
 echo 1. Misal Wifi mati dan LAN hidup, maka IPv4 LAN yang digunakan
