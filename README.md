@@ -25,7 +25,7 @@ Jika ingin menghidupkan, cukup double klik "autostartSLIM.bat",
 Anda tidak perlu lagi mengetik manual ipconfig di CMD dan tidak perlu lagi membuka manual browser dan mengetikan IP local, semua dilakukan sendiri oleh "FILE BAT" ini
 * Catatan: 
 * Jangan tutup CMD yang ada agar tetap menyala.
-* Jika anda mengubah Port default, maka pada bagian start http://%_IPaddr%:portmu jika ada, ubah "portmu jika ada" dengan portmu. Misal anda menggunakan port 8089, maka ganti menjadi: http://%_IPaddr%:8089
+* Jika anda mengubah Port default, maka pada bagian start http://%_IPaddr%:portmu jika ada, ubah ":portmu jika ada" dengan portmu. Misal anda menggunakan port 8089, maka ganti menjadi: http://%_IPaddr%:8089. Jika tidak mengatur ini, maka hapus ":portmu jika ada"
 ---
 
 Instruksi menutup:
